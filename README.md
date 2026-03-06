@@ -6,12 +6,6 @@ This project implements an IoT-based monitoring and diagnostic system for RCBO/E
 
 The objective of this project was to develop a smart monitoring platform capable of detecting abnormal electrical conditions and enabling preventive maintenance of circuit protection devices.
 
-Developed at:  
-Nemi Parshva Trader LLP (Moti Group), Surat, India  
-
-Duration:  
-January 2022 – September 2022
-
 ---
 
 ## System Architecture
@@ -89,3 +83,10 @@ Main functionalities implemented:
 - Mobile dashboard for real-time monitoring  
 - Integration with smart grid systems  
 - Voltage, power, and energy monitoring features
+
+---
+
+## Note
+
+This repository documents the system architecture and firmware design of the project.  
+Hardware photographs and PCB design files are not publicly available due to company restrictions.
